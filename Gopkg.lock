@@ -5,6 +5,7 @@
   branch = "master"
   name = "github.com/deviceio/hmapi"
   packages = ["."]
+  revision = "3eafeb9c08719bda5a0dd0c37ab93804e94ddb39"
 
 [solve-meta]
   analyzer-name = "dep"
